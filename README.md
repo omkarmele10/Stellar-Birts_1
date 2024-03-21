@@ -1,1 +1,1 @@
-# Stellar-Birts_1
+# Stellar-Workshop-Template
